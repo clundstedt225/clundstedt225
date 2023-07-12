@@ -1,9 +1,9 @@
 ### Hello! 👋
 I'm Connor, a Computer Science Student and Graduate in Animation & Game Programming. 
 
-I always working on personal game projects that interest me, primarily in C# and C++.
+I'm always working on personal game projects that interest me, primarily in C# and C++.
 
-My game portfolio can be also be found here for a more in-depth look at my past work: https://conlundstedt.com/
+For a more in-depth look at my past work, my game portfolio can also be found here: https://conlundstedt.com/
 
 <!--
 **clundstedt225/clundstedt225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
