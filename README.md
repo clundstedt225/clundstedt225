@@ -2,6 +2,7 @@
 I'm Connor, a Computer Science Student and Graduate in Animation & Game Programming. 
 
 I'm always working on personal game projects that interest me, primarily in C# and C++.
+(I'm Currently developing a multiplayer survival horror game, and getting to know the Steamworks API)
 
 For a more in-depth look at my past work, my game portfolio can also be found here: https://conlundstedt.com/
 
