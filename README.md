@@ -4,7 +4,7 @@
 
 ## Fun facts about me
 
-- 🎮 I’m currently working on my first commercial Steam Game [The Night Watch](https://store.steampowered.com/app/1900080/The_Night_Watch/)
+- 🎮 I’m currently working on my first commercial Indie Steam Game [The Night Watch](https://store.steampowered.com/app/1900080/The_Night_Watch/)
 - 💻 I first started learning how to code in middle school - (Objective-C to make iPhone/iPod apps)
 - 🛠 I have worked on multiple team projects at NHTI - (Concord, NH)
 - 👨‍💻 You can find a more in depth look at my past work here - [www.conlundstedt.com](www.conlundstedt.com)
