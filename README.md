@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Connor</h1>
-<h3 align="center">Computer Science Student & Game Programming Graduate</h3>
+<h3 align="center">Computer Science & Game Programming Graduate</h3>
 
 
 ## Fun facts about me
